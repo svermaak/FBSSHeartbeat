@@ -1,0 +1,1 @@
+A silly little utility that checked if mainframe is connected

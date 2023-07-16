@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<FBSS_Heartbeat>
+<Config>
+<SQL_Server>10.6.127.91</SQL_Server>
+<SQL_Database>FBSS_Heartbeat</SQL_Database>
+<SQL_User_Name>LogWriter</SQL_User_Name>
+<SQL_Password>Password1</SQL_Password>
+<Maximum_Minutes_Before_First_Logging>1</Maximum_Minutes_Before_First_Logging>
+<Interval_Minutes_Before_Next_Logging>1</Interval_Minutes_Before_Next_Logging>
+<Current_Log_File_Index>0</Current_Log_File_Index>
+<Maximum_Number_Of_Log_Files>3</Maximum_Number_Of_Log_Files>
+<Minimum_Size_Before_New_Log_File>256</Minimum_Size_Before_New_Log_File>
+<IMSPing_Path>C:\ABSA\GEMINI\DPLAT</IMSPing_Path>
+</Config>
+</FBSS_Heartbeat>

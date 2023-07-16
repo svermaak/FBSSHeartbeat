@@ -1,0 +1,11 @@
+bin\Debug\FBSS Heartbeat.exe
+bin\Debug\FBSS Heartbeat.pdb
+bin\Debug\FBSS Heartbeat.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FBSS_Heartbeat.Heartbeat.resources
+obj\Debug\FBSS_Heartbeat.Resources.resources
+obj\Debug\FBSS_Heartbeat.ProjectInstaller.resources
+obj\Debug\FBSS Heartbeat Source.vbproj.GenerateResource.Cache
+obj\Debug\FBSS Heartbeat.exe
+obj\Debug\FBSS Heartbeat.xml
+obj\Debug\FBSS Heartbeat.pdb
